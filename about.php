@@ -35,7 +35,6 @@
                     <h2>INFO</h2>
                     <p>CURRENT PATIENTS: 33 PERSONS</p>
                     <p>VOLUNTEERS: 7 PERSONS</p>
-                    <P>HOME CHARITY</P>
                 </div>
             </div>
         </div>
